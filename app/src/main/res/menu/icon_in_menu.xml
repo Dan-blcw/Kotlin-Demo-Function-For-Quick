@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/mnuSearchItem"
+        android:icon="@drawable/item_search"
+        android:title="Item"
+        app:showAsAction="ifRoom" />
+    <item android:id="@+id/mnuIcon1"
+        android:icon="@drawable/item_more"
+        app:showAsAction="always"
+        android:title="Icon0">
+        <menu>
+            <item android:id="@+id/mnuIcon2"
+                android:icon="@drawable/item_home"
+                android:title="Icon1"/>
+            <item android:id="@+id/mnuIcon3"
+                android:icon="@drawable/item_exit"
+                android:title="Icon2"/>
+        </menu>
+    </item>
+</menu>

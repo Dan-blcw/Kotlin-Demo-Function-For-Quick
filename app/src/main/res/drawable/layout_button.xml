@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape= "rectangle">
+<!--    solid: màu nền khối shape-->
+    <solid android:color="@color/black"/>
+
+<!-- stroke: màu viền khối shape, width độ rộng viền -->
+    <!-- Kích hước đoạn thẳng cách dashWidth="15dp"-->
+    <!-- khe hở cách dashGap="5dp"-->
+    <!-- <stroke android:color="#000000"-->
+    <!--         android:width="5dp"/>-->
+    <!--         android:dashWidth="15dp"-->
+    <!--         android:dashGap="5dp" />-->
+
+<!--kích cỡ khối shape-->
+    <!--    <size   android:width="50dp"-->
+    <!--            android:height="120dp"/>-->
+
+<!--bo góc khối shape-->
+    <!--radius: bo tất cả các góc -->
+    <!--muốn bo ntn tùy người dùng-->
+    <corners android:radius="50dp"/>
+
+<!--căn lề nội dung trên khối shape-->
+    <!--<padding android:bottom="20dp"/>-->
+
+<!--Dải chuyền màu sắc -->
+    <gradient
+        android:startColor="#30cfd0"
+        android:endColor="#330867"
+        android:angle="45"/>
+</shape>
