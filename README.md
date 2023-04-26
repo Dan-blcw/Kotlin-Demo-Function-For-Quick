@@ -1,6 +1,5 @@
 # Kotlin Demo full course
-#### Here is a summary
-- here is a demo all you need to customize everything and get used to kotlin
+#### Here is a summary. This is a demo all you need to customize everything and get used to kotlin
 #### What's in this project
 - TextView
 - Editext
@@ -28,3 +27,4 @@
 - Nation Drawer
 - Database(CRUD)
 - Firebase
+#### there are more things that i have not mentioned here but it mainly related to jetbrains android, room database and with dependencies, working with libraries
