@@ -1,4 +1,4 @@
-# Kotlin Demo full course
+# Kotlin Demo function 
 #### Here is a summary. This is a demo all you need to customize everything and get used to kotlin
 #### What's in this project
 - TextView
